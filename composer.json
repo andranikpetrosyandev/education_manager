@@ -1,0 +1,16 @@
+{
+    "name": "andranikpetrosyandev/education_manager",
+    "description": "Education manager",
+    "authors": [
+        {
+            "name": "Andranik",
+            "email": "andranikpetrosyandev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "andranikpetrosyandev\\educationManager\\": "src"
+        }
+    }
+}
