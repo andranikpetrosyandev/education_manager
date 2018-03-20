@@ -1,6 +1,7 @@
 {
     "name": "andranikpetrosyandev/education_manager",
     "description": "Education manager",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Andranik",
